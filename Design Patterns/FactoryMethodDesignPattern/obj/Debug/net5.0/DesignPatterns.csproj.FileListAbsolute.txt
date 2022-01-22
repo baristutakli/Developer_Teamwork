@@ -1,0 +1,16 @@
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.exe
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.deps.json
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.runtimeconfig.json
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.runtimeconfig.dev.json
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.dll
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\ref\DesignPatterns.dll
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net5.0\DesignPatterns.pdb
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.AssemblyReference.cache
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfoInputs.cache
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.AssemblyInfo.cs
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.dll
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\ref\DesignPatterns.dll
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.pdb
+D:\Users\Bdk11\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net5.0\DesignPatterns.genruntimeconfig.cache
