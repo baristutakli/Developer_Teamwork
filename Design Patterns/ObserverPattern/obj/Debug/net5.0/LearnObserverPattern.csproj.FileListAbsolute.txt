@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\LearnObserverPattern.exe
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\LearnObserverPattern.deps.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\LearnObserverPattern.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\LearnObserverPattern.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\LearnObserverPattern.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\ref\LearnObserverPattern.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\LearnObserverPattern.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\LearnObserverPattern.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\LearnObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\LearnObserverPattern.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\LearnObserverPattern.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\LearnObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\LearnObserverPattern.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ref\LearnObserverPattern.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\LearnObserverPattern.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\LearnObserverPattern.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\ObserverPatternEx.exe
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\ObserverPatternEx.deps.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\ObserverPatternEx.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\ObserverPatternEx.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\ObserverPatternEx.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\ref\ObserverPatternEx.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\bin\Debug\net5.0\ObserverPatternEx.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ObserverPatternEx.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ObserverPatternEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ObserverPatternEx.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ObserverPatternEx.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ObserverPatternEx.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ObserverPatternEx.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ref\ObserverPatternEx.dll
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ObserverPatternEx.pdb
+C:\Users\kbez1\Documents\kodlar\Research-and-Development\C#\LearnObserverPattern\obj\Debug\net5.0\ObserverPatternEx.genruntimeconfig.cache
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\bin\Debug\net5.0\ObserverPatternEx.exe
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\bin\Debug\net5.0\ObserverPatternEx.deps.json
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\bin\Debug\net5.0\ObserverPatternEx.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\bin\Debug\net5.0\ObserverPatternEx.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\bin\Debug\net5.0\ObserverPatternEx.dll
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\bin\Debug\net5.0\ref\ObserverPatternEx.dll
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\bin\Debug\net5.0\ObserverPatternEx.pdb
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\obj\Debug\net5.0\ObserverPatternEx.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\obj\Debug\net5.0\ObserverPatternEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\obj\Debug\net5.0\ObserverPatternEx.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\obj\Debug\net5.0\ObserverPatternEx.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\obj\Debug\net5.0\ObserverPatternEx.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\obj\Debug\net5.0\ObserverPatternEx.dll
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\obj\Debug\net5.0\ref\ObserverPatternEx.dll
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\obj\Debug\net5.0\ObserverPatternEx.pdb
+C:\Users\kbez1\Documents\kodlar\Developer_Teamwork\Design Patterns\ObserverPattern\obj\Debug\net5.0\ObserverPatternEx.genruntimeconfig.cache
