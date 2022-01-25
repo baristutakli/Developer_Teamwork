@@ -1,0 +1,16 @@
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.exe
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.deps.json
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.runtimeconfig.json
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.runtimeconfig.dev.json
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.dll
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\bin\Debug\net5.0\ref\CommandPattern.dll
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\bin\Debug\net5.0\CommandPattern.pdb
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.AssemblyInfo.cs
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.dll
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\obj\Debug\net5.0\ref\CommandPattern.dll
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.pdb
+C:\Projeler\UnluCoBootcamp\Örnekler\Developer_Teamwork\Design Patterns\CommandPattern\CommandPattern\obj\Debug\net5.0\CommandPattern.genruntimeconfig.cache
