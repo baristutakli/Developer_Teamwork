@@ -21,6 +21,10 @@ namespace CommandPattern
 
             stockController.PlaceOrders();
 
+            // Output
+            // 10 adet Xiaomi alındı.
+            // 10 adet Xiaomi satıldı.
+            // 10 adet Xiaomi satıldı.
         }
     }
 }
