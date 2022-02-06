@@ -1,16 +1,16 @@
 # Developer Teamwork
 
-## SQL- NoSQL
-
 
 ## Topics
-* <Name>
+* No-SQL
+* MongoDB
 
 
 ### Additional documents
-* [Document Link]()
-
+* [Images](https://github.com/baristutakli/Developer_Teamwork/tree/main/SQL-NoSQL/NoSQL/Image)
+* [Database sample](https://github.com/baristutakli/Developer_Teamwork/tree/main/SQL-NoSQL/NoSQL/Ornek-Database) 
+* [NO-SQL Slide](https://github.com/baristutakli/Developer_Teamwork/blob/main/SQL-NoSQL/NoSQL/NOSQL.pptx) 
 
 
 ## Collabrators
-* [Name](Github Link)
+* [Büşra Yeşilalioğlu](https://github.com/7Auri)
