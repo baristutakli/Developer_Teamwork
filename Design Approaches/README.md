@@ -8,7 +8,7 @@
 
 
 ### Additional documents
-* [Domain Driven Design]()
+* [Domain Driven Design](https://github.com/baristutakli/Developer_Teamwork/blob/main/Design%20Approaches/DomainDrivenDesign.pdf)
 
 
 
