@@ -21,5 +21,47 @@ Uygulamalarınızda CQRS mimari modeline göre oluşturursanız; uygulamanızın
 
 
 [Detaylı bilgi için sunum dosyası](https://github.com/baristutakli/Developer_Teamwork/blob/main/Design%20Patterns/CQRS/CQRS.pptx)
+Request ve response modellerini ve bir comand sınıfını aşağıdaki örneklerden inceleyebilirsiniz.
 
+### Create Student Request
+```c#
+public class CreateStudentRequest
+{
+    public string StudentName { get; set; }
+    public int GradeId { get; set; }
+}
+```
+
+### Create Student Response
+```c#
+public class CreateStudentResponse
+{
+    public string Message { get; set; }
+    public bool Success { get; set; } = true;
+}
+```
+
+### Create Student Command
+
+```c#
+public class CreateStudentCommand
+{
+    private readonly IEfStudentDal _efStudentDal;
+
+    public CreateStudentCommand(IEfStudentDal efStudentDal)
+    {
+        _efStudentDal = efStudentDal;
+
+    }
+    public CreateStudentResponse Handle(CreateStudentRequest request)
+    {
+        _efStudentDal.Add(request.GetCreateStudent());
+
+        return new CreateStudentResponse {Message = "Student added"};
+    }
+
+
+}
+```
+   
 [Güven Baris Cakan](https://github.com/guvenbaris)
