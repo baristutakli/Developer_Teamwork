@@ -16,4 +16,4 @@ Message queues allow different parts of a system to communicate and process oper
 
 given code has been taken from https://github.com/salihcantekin/RabbitMQ.Project_Desktop.
 
-  
+Prepared by: [Ertan Aktaş](https://github.com/aktasertan11)
