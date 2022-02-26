@@ -14,6 +14,7 @@ This repository contains our team's researches.
 * CQRS Pattern
 * Software Project Management
 * Message Queue
+* SQL
 
 ### Additional documents
 * [Obeserver Pattern](https://docs.google.com/presentation/d/1_POMUrJ_KfiAs9Erv1A9jejX5eRX-3e1TZAbp7hHIMQ/edit?usp=sharing)

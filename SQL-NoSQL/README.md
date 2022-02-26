@@ -4,6 +4,7 @@
 ## Topics
 * No-SQL
 * MongoDB
+* Sql, veri ve veritabanı, postreSql, PSql, Sql temelleri, join yapıları, alt sorgu
 
 
 ### Additional documents
@@ -14,3 +15,4 @@
 
 ## Collabrators
 * [Büşra Yeşilalioğlu](https://github.com/7Auri)
+* [Barış Tutakli](https://github.com/baristutakli)
